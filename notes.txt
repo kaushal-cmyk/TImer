@@ -1,0 +1,9 @@
+-- making a stopwatch
+
+have a initial phase of timer with 00:00:00 
+
+
+// buttons(states)
+-- should have stop button
+-- should have start button
+-- should have reset button
