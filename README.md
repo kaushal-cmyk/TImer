@@ -17,8 +17,8 @@
   2. Start the server
      npm start 
 
-## Features 
-  -can start timer 
-  -pause the timer 
-  -resume the timer 
-  -reset the timer 
+## Features <br>
+  -can start timer <br>
+  -pause the timer <br>
+  -resume the timer <br>
+  -reset the timer <br>
